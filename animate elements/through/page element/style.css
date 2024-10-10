@@ -1,0 +1,10 @@
+#frame {
+   border: 1px solid red;
+ }
+ 
+ #block {
+   width: 20px;
+   height: 40px;
+   background: red;
+   position: relative;
+ }
